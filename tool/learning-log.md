@@ -1,13 +1,13 @@
 # Tool Learning Log
 
-## Tool: **Unity**
+## Tool: **longchain.js**
 
-## Project: **Block City Wars NEW REVAMP**
+## Project: **AI Creative Partner**
 
 ---
 
-### X/X/XX:
-* Text
+### 11/12/2026:
+* 
 
 ### X/X/XX:
 * Text
