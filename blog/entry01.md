@@ -10,6 +10,17 @@ My original idea for this year's freedom project was to use <a href="https://uni
 ### How I Tinkered with My Tool (with the time I had)
 
 
+```js
+import { generateText } from 'ai';
+const { text } = await generateText({
+  model: 'spacexai/grok-4.7',
+  prompt: 'Explain the concept of quantum entanglement.',
+});
+
+console.log(text);
+
+
+```
 
 
 
