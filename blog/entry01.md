@@ -1,7 +1,23 @@
-# Entry 1
+# Deciding What to do for Freedom Project and Progress Now
 ##### 11/14/26
 
-Text
+### Where I am at Now
+For my APCSA Freedom Project, I am working to create an **AI Support System** that is meant to encourage human creativity instead of replacing it in the career field of **Graphic Design**. I chose this for my freedom project because I like to show off creativity, whether it be through drawing, artwork or even digital design despite not having much experience in any of those areas. Now with AI becoming more integrated into these types of career fields, I've seen how useful AI can be when being placed in the right hands. So in order to preserve the creativity spark and use artificial intelligence to its full extent, I decided to use <a href="https://ai-sdk.dev/">Vercel AI SDK</a> to try and fit both aspects for Graphic Designers. Which is a Typescript SDK for creating AI apps.
+
+### The Setback that Led to My Current Tool
+My original idea for this year's freedom project was to use <a href="https://unity.com/">Unity</a> to create a revamped verison of a game called Block City Wars. The reason for this idea was that this was a game that I played since I was a kid that lost it's fame overtime as a result of the game developers lack of security against hackers and toxic players. However, while trying to find the time to tinker with this tool, I caught a light fever that made me miss a few days of school. Due to these missed days, I also had to catch up on other assignments that were past due as a result of my fever. Which shifted my mind away from tinkering with Unity. When I got well enough to tinker with Unity, I had also ran into an issue that did not allow me to download the software into my IDE. Even when I tried to download Unity on my personal Macbook, the software still gave me similar issues. This wasted a lot of time for me to try and tinker with the tool. When I felt well enough to go to school, I told my teacher all of this and he told me to try my back up plan, which is the AI Assistant. He then showed me a list of possible tools that could help me with creating my freedom project idea, one of them being Vercel. 
+
+### How I Tinkered with My Tool(with the time I had)
+
+
+
+
+### EDP
+I am currently in Step 2 of the Engineering Design Process, which is to Research the Problem. I say this step because in order for me to do my project, I first have to understand what tool I will have to use. As well as how to use that tool for the end goal that I want to create. Being that this shift of tools was so sudden and that I had a later start to tinkering with Vercel AI SDK, I had a major project delay when it comes to knowing what tool that I was going to use originally.
+
+### Skills and Takeaways
+
+**Asking for Help When Needed** - This was something that I thought I couldn't do being that this was a tool that was not shown in the tool list for the APCSA Freedom Project, but this did not give me an excuse to try and ask Mr.Mueller for help whenever I could. With this setback in time, 
 
 [Next](entry02.md)
 
