@@ -7,7 +7,7 @@
 ---
 
 ### 11/12/2026:
-* Outputs are terminal outputs 
+* Outputs are terminal outputs, works inside of ``.ts`` files
 
 ### X/X/XX:
 * Text
