@@ -9,8 +9,8 @@
 ### 11/12/2026:
 * Outputs are terminal outputs, works inside of ``.ts`` files
 
-### X/X/XX:
-* Text
+### 11/16/26:
+* <a href="https://www.google.com/goto?url=CAESZwHEIkXXl1PDBHC0BO5swkUe3LLku66StvmsHXZRtPRfWDE4x8h2QGGtwR3txfzCqz3haBzJfdMybh39HO-9JzFNZHp_NLcODc4KtR7IJjG8FFPpVJ7DbdNG3-fVncbFPSIUqNvMkZg&gsessionid=cmy9UPMbGfvf1LmW9NZIMjut8AkmUutcwlzhzBdjAGrkY8sylCPlXw">video from CodewithStav</a> 
 
 
 <!-- 
