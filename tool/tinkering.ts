@@ -1,6 +1,5 @@
-<script> 
+ 
 import { generateText } from 'ai';
-
 const { text } = await generateText({
   model: 'spacexai/grok-4.7',
   prompt: 'Explain the concept of quantum entanglement.',
@@ -12,4 +11,3 @@ console.log(text);
 
 
 
-</script>

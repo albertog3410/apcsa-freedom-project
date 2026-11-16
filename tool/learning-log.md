@@ -1,13 +1,13 @@
 # Tool Learning Log
 
-## Tool: **longchain.js**
+## Tool: **AI SDK**
 
 ## Project: **AI Creative Partner**
 
 ---
 
 ### 11/12/2026:
-* 
+* Outputs are terminal outputs 
 
 ### X/X/XX:
 * Text
